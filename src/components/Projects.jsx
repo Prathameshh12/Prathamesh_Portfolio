@@ -19,7 +19,7 @@ const projects = [
   {
     title: "iOS App - Colour Capture",
     desc: "A calming iOS app that challenges users to match a daily color using their camera, encouraging mindfulness and color awareness.",
-    image: "/images/colourcapture.png",
+    image: "/images/ColourCaptureLogo.png",
     github: "https://github.com/Prathameshh12/ColourPhoto",
     live: "https://your-live-singular-demo.com"
   },
