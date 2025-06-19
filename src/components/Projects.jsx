@@ -6,15 +6,15 @@ const projects = [
     title: "Portfolio Website",
     desc: "Creative minimalist personal website built with React, Vite, TailwindCSS, and Framer Motion.",
     image: "/images/portfolio.png",
-    github: "https://github.com/Prathameshh12/My_portfolio",
-    live: "https://your-live-portfolio-link.com"
+    github: "https://github.com/Prathameshh12/Prathamesh_Portfolio",
+    live: "https://prathameshahire.netlify.app"
   },
   {
     title: "iOS App - Singular",
     desc: "Singular — An iOS app using SwiftUI that trains your focus through creative puzzle-building, reflection, and mindful habit tracking.",
     image: "/images/singular.jpg",
     github: "https://github.com/Prathameshh12/CodeBrewers",
-    live: "https://your-live-singular-demo.com"
+    live: "https://drive.google.com/file/d/1d0BK3cuB5GEeLcG8w2AI2DaGkm1h7zky/view"
   },
   {
     title: "iOS App - Colour Capture",
