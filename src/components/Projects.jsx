@@ -11,14 +11,14 @@ const projects = [
   },
   {
     title: "iOS App - Singular",
-    desc: "Singular — An iOS app using SwiftUI that trains your focus through creative puzzle-building, reflection, and mindful habit tracking.",
+    desc: "Singular - An iOS app using SwiftUI that trains your focus through creative puzzle-building, reflection, and mindful habit tracking.",
     image: "/images/singular.jpg",
     github: "https://github.com/Prathameshh12/CodeBrewers",
     live: "https://drive.google.com/file/d/1d0BK3cuB5GEeLcG8w2AI2DaGkm1h7zky/view"
   },
   {
     title: "iOS App - Colour Capture",
-    desc: "A calming iOS app that challenges users to match a daily color using their camera, encouraging mindfulness and color awareness.",
+    desc: "A calming iOS app using Swift that challenges users to match a daily color using their camera, encouraging mindfulness and color awareness.",
     image: "/images/ColourCaptureLogo1.png",
     github: "https://github.com/Prathameshh12/ColourPhoto",
     live: "https://your-live-singular-demo.com"
@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Creative Portfolio",
     desc: "Interactive 3D solar system portfolio built with HTML, CSS, JavaScript, and Three.js,",
-    image: "/images/colourcapture.png",
+    image: "/images/solarportfolio.png",
     github: "https://github.com/Prathameshh12/ColourPhoto",
     live: "https://your-live-singular-demo.com"
   },

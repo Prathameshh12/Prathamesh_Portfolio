@@ -2,15 +2,18 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const skills = [
+  "Java",
+  "Python",
   "React",
   "Swift / SwiftUI",
-  "Node.js",
-  "Java",
   "Tailwind CSS",
-  "Framer Motion",
+  "Pentesting",
+  "Wireshark / Metasploit / Nmap",
   "Git & GitHub",
-  "Python",
-  "Pentesting"
+  "AWS & Google Cloud",
+  "Docker",
+  "Linux",
+  
 ];
 
 export default function Skills() {
