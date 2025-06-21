@@ -27,8 +27,8 @@ const projects = [
     title: "Creative Portfolio",
     desc: "Interactive 3D solar system portfolio built with HTML, CSS, JavaScript, and Three.js,",
     image: "/images/solarportfolio.png",
-    github: "https://github.com/Prathameshh12/ColourPhoto",
-    live: "https://your-live-singular-demo.com"
+    github: "https://github.com/Prathameshh12/SpacePortfolio",
+    live: "https://prathameshspace.netlify.app"
   },
 ];
 
