@@ -21,7 +21,7 @@ const projects = [
     desc: "A calming iOS app using Swift that challenges users to match a daily color using their camera, encouraging mindfulness and color awareness.",
     image: "/images/ColourCaptureLogo1.png",
     github: "https://github.com/Prathameshh12/ColourPhoto",
-    live: "https://your-live-singular-demo.com"
+    live: "https://drive.google.com/file/d/1BryrOn350_DiE-hCiF7V_zimsKXzpRLq/view?usp=sharing"
   },
   {
     title: "Creative Portfolio",
