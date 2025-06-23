@@ -33,7 +33,7 @@ export default function Header() {
 
           {/* Resume */}
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1qMPco5tfMkAVDJmK-PXl1qk_ZIIFasNB/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="font-serif text-[17px] font-semibold text-gray-800 dark:text-white transform transition-transform duration-300 hover:scale-110 hover:rotate-1 hover:text-indigo-500 dark:hover:text-indigo-300"
